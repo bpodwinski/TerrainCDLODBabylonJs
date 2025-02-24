@@ -6,9 +6,10 @@ This project demonstrates a Continuous Distance-Dependent Level-Of-Detail (CDLOD
 
 ## Features
 
-- **CDLOD Terrain System:** Dynamically generates terrain chunk based on camera distance using a quadtree
-- **Vertex Geomorphing:** Smooth LOD transitions and vertex morphing using custom GLSL shaders
-- **Debug Options:** Wireframe mode and bounding box visualization for easier debugging
+- **CDLOD Terrain System:** Dynamically generates terrain chunks based on camera distance using a quadtree.
+- **Vertex Geomorphing:** Smooth LOD transitions and vertex morphing using custom GLSL shaders.
+- **Debug Options:** Wireframe mode and bounding box visualization for easier debugging.
+- **Keyboard Navigation:** Use the arrow keys to move around the terrain.
 
 ## Getting Started
 
