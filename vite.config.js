@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 
 export default defineConfig(({ mode }) => {
   return {
-    base: "/terraincdlodbabylonjs/",
+    base: "/TerrainCDLODBabylonJs/",
     resolve: {
       alias: {
         babylonjs:
