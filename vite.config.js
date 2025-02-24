@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 
-export default defineConfig(({ command, mode }) => {
+export default defineConfig(({ mode }) => {
   return {
     base: "/terraincdlodbabylonjs/",
     resolve: {
@@ -8,6 +8,9 @@ export default defineConfig(({ command, mode }) => {
         babylonjs:
           mode === "development" ? "babylonjs/babylon.max" : "babylonjs",
       },
+    },
+    build: {
+      target: "esnext",
     },
   };
 });
