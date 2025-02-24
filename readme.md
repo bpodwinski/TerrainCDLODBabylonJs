@@ -11,6 +11,9 @@ This project demonstrates a Continuous Distance-Dependent Level-Of-Detail (CDLOD
 - **Debug Options:** Wireframe mode and bounding box visualization for easier debugging.
 - **Keyboard Navigation:** Use the arrow keys to move around the terrain.
 
+## Demo
+[https://bpodwinski.github.io/TerrainCDLODBabylonJs](https://bpodwinski.github.io/TerrainCDLODBabylonJs)
+
 ## Getting Started
 
 ### Prerequisites
